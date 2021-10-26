@@ -40,7 +40,7 @@ I'm a 4th year Computer Engineering student at [Amirkabir University of Technolo
   
 </a>
 <a href="https://github.com/amirhossein-rajabpour/amirhossein-rajabpour">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amirhossein-rajabpour&show_icons=true&theme=dracula" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amirhossein-rajabpour&show_icons=true" alt="Martin's GitHub Stats" />
 </a>
 
 
