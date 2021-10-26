@@ -3,7 +3,7 @@
 I'm a 4th year Computer Engineering student at [Amirkabir University of Technology](https://aut.ac.ir/).<br>
 
 - 🔭 I’m currently working on a Vision problem at [Crouse PJS Co.](https://www.linkedin.com/company/crousepjsco/mycompany/)
-- 📫 Emails : rajabpoura@aut.ac.ir, rajabpouramirhosein@gmail.com <br>
+- 📫 Emails : rajabpouramirhosein@gmail.com, rajabpoura@aut.ac.ir <br>
 - 👨🏻‍💻 Check my [My personal website](amirhossein-rajabpour.github.io/)
 - :speech_balloon: How to reach me: <br>
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Amirhossein-Rajabpour)
