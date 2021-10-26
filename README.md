@@ -34,14 +34,7 @@ I'm a 4th year Computer Engineering student at [Amirkabir University of Technolo
 
 
 ## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/amirhossein-rajabpour/amirhossein-rajabpour">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhossein-rajabpour&hide=jupyter%20notebook,shell&langs_count=8&theme=dracula,225217,0C1C08&layout=compact" alt="My GitHub stats"/>
-  
-</a>
-<a href="https://github.com/amirhossein-rajabpour/amirhossein-rajabpour">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amirhossein-rajabpour&show_icons=true" alt="Martin's GitHub Stats" />
-</a>
-
+![amirhossein's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhossein-rajabpour&layout=compact&theme=dracula&langs_count=6&hide=c)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=amirhossein-rajabpour&show_icons=true&include_all_commits=true&theme=dracula)
 
 
