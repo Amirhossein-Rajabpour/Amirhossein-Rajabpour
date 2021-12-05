@@ -33,7 +33,7 @@ I'm a 4th year Computer Engineering student at [Amirkabir University of Technolo
 
 
 ## &#x1f4c8; GitHub Stats
-![amirhossein's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhossein-rajabpour&layout=compact&theme=dracula&langs_count=6&hide=c)
-![Top Langs](https://github-readme-stats.vercel.app/api?username=amirhossein-rajabpour&show_icons=true&include_all_commits=true&theme=dracula)
-
+   ![amirhossein's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhossein-rajabpour&layout=compact&theme=dracula&langs_count=6&hide=c)
+   
+   ![Top Langs](https://github-readme-stats.vercel.app/api?username=amirhossein-rajabpour&show_icons=true&include_all_commits=true&theme=dracula)
 
