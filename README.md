@@ -2,8 +2,7 @@
 
 I'm a 4th year Computer Engineering student at [Amirkabir University of Technology](https://aut.ac.ir/).<br>
 
-- 🔭 I’m currently working on a Vision problem at [Crouse PJS Co.](https://www.linkedin.com/company/crousepjsco/mycompany/)
-- 👨🏻‍💻 Check my [My personal website](https://amirhossein-rajabpour.github.io/)
+- 👨🏻‍💻 [My personal website](https://amirhossein-rajabpour.github.io/)
 - :speech_balloon: How to reach me: <br>
 [![](https://img.shields.io/badge/-rajabpouramirhosein@gmail.com-black?style=flat-circle&logo=gmail)](mailto:rajabpouramirhosein@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amirhossein-rajabpour-a961a31a7/)
