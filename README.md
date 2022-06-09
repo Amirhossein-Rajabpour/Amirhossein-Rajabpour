@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Amirhossein Rajabpour
+### Hi there 👋, I'm Amirhossein Rajabpour
 
 I'm a 4th year Computer Engineering student at [Amirkabir University of Technology](https://aut.ac.ir/).<br>
 
