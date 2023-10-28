@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Amirhossein Rajabpour
 
-I'm a senior Computer Engineering student at [Amirkabir University of Technology](https://aut.ac.ir/).<br>
+<!-- I'm a senior Computer Engineering student at [Amirkabir University of Technology](https://aut.ac.ir/).<be>
+-->
 
 - 👨🏻‍💻 [My personal website](https://amirhossein-rajabpour.github.io/)
 - :speech_balloon: How to reach me: <br>
